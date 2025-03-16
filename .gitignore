@@ -1,0 +1,6 @@
+/target
+/images
+/.vscode
+
+.DS_Store
+.env
